@@ -19,6 +19,6 @@ int main() {
 			m[t]++;
 		}
 	}
-	
+
 	cout << m.size();
 }
